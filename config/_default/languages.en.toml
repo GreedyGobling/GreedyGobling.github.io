@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Robin Website"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+
+[author]
+name = "Robin Henriksson"
+# image = "img/blowfish_logo.png"
+bio = "why do bio not work"
+headline = "programmer from sweden"
+links = [
+    { email = "mailto:robin.henriksson18@gmail.com" },
+    { github = "https://github.com/GreedyGobling" },
+    { linkedin = "https://www.linkedin.com/in/robin-henriksson-71b524189/?locale=en_US" }
+    
+]
