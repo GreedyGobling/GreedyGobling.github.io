@@ -4,7 +4,7 @@ date = 2024-03-01T18:30:42+02:00
 draft = false
 tags = ["Unity", "Solo", "Programmer", "Art",]
 categories = ["game"]
-summary = "Learn more about me and why I am starting this blog."
+summary = "you are trapped in a basement. Try to escape anyway you can!"
 +++
 this is a course project
 

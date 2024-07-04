@@ -2,11 +2,11 @@
 title = 'A Trinkets Curiosity'
 date = 2024-06-03T16:32:13+02:00
 draft = false
-summary = "Learn more about me and why I am starting this blog."
+summary = "A Trinkets Curiosity Is a 3D Collecter/Advancer A game about a toy adventure. And found out the story."
 tags = ["Unity", "Team", "Programmer",]
 categories = ["game"]
 +++
-this is a course project
+
 ### Game Description
 A Trinkets Curiosity
 Is a 3D Collecter/Advancer A game about a toy adventure.
